@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuestaoTres</string>
+    <string name="cadastroBtn">CADASTRAR</string>
+    <string name="voltarBtn">Voltar</string>
+    <string name="txtCadastrar">Cadastre-se</string>
+    <string name="txtInserirNome">Insira seu nome:</string>
+    <string name="txtBemVindo">Seja bem vindo, </string>
+</resources>
